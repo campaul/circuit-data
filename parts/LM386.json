@@ -1,0 +1,14 @@
+{
+    "title": "LM386",
+    "type": "dip",
+    "pins": [
+        "GAIN",
+        "INPUT-",
+        "INPUT+",
+        "GND",
+        "OUT",
+        "V+",
+        "BYPASS",
+        "GAIN",
+    ]
+}
